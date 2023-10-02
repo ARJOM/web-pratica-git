@@ -4,4 +4,5 @@ Professor: Antônio Ricart
 
 Alunos:
 - ~~Antônio Ricart~~
-- ~~Carlos Lopes~~
+- Carlos Lopes
+- [Emanuel Franklyn de Lima Maciel (Space_Fox)](https://github.com/emanuelfranklyn)
