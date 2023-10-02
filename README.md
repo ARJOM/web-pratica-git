@@ -12,10 +12,11 @@ Alunos:
 - José Wilson Lins Pereira
 - Livia Alencar de Souza
 - Maria Clara Lourenço de Lira :)
+- Antonio Cleber Gonçalves Claudino
+- Matheus Alessander Cartaxo Pereira
 - Maria Eduarda Lopes Parnaiba 
 - João Lucas Ferreira
 - Maria Eduarda Lopes Parnaiba
 - Maria Clara Formiga Braga
 - Jayne Dias Figueiredo
 - Veluma de Sousa Guedes
-
