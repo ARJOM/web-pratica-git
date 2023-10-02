@@ -10,3 +10,4 @@ Alunos:
 - Maria Clara Lourenço de Lira :)
 - Velumna de Sousa Guedes
 - Maria Eduarda Lopes Parnaiba
+- Maria Clara Formiga Braga
