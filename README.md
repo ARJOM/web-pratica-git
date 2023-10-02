@@ -4,6 +4,7 @@ Professor: Antônio Ricart
 
 Alunos:
 - ~~Antônio Ricart~~
+- Isadora Pereira Maciel
 - Anna Felícia Vasques Bezerra  
 - Antonio Cleber Gonçalves Claudino
 - Carlos Lopes
