@@ -10,3 +10,4 @@ Alunos:
 - Maria Clara Lourenço de Lira :)
 - Velumna de Sousa Guedes
 - Livia Alencar de Souza
+- Maria Eduarda Lopes Parnaiba
