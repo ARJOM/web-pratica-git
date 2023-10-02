@@ -10,5 +10,6 @@ Alunos:
 - José Wilson Lins Pereira
 - Livia Alencar de Souza
 - Maria Clara Lourenço de Lira :)
+- João Lucas Ferreira
 - Maria Eduarda Lopes Parnaiba
 - Veluma de Sousa Guedes
