@@ -4,5 +4,13 @@ Professor: Antônio Ricart
 
 Alunos:
 - ~~Antônio Ricart~~
-- ~~Carlos Lopes~~
-- Bianca 
+- Antonio Cleber Gonçalves Claudino
+- Bianca Cristina
+- Carlos Lopes
+- [Emanuel Franklyn de Lima Maciel (Space_Fox)](https://github.com/emanuelfranklyn)
+- José Wilson Lins Pereira
+- Livia Alencar de Souza
+- Maria Clara Lourenço de Lira :)
+- Maria Eduarda Lopes Parnaiba
+- Veluma de Sousa Guedes
+
