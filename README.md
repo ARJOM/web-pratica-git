@@ -27,3 +27,4 @@ Alunos:
 - Veluma de Sousa Guedes
 - João Vittor 
 - Anna Clara Ferreira Lopes  
+- Maria Kaislândia Vicente Bezerra
