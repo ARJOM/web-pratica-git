@@ -4,4 +4,5 @@ Professor: Antônio Ricart
 
 Alunos:
 - ~~Antônio Ricart~~
-- ~~Carlos Lopes~~
+- Carlos Lopes
+- Maria Clara Lourenço de Lira :)
