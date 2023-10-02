@@ -26,4 +26,4 @@ Alunos:
 - Jayne Dias Figueiredo
 - Veluma de Sousa Guedes
 - João Vittor 
-
+- Anna Clara Ferreira Lopes  
