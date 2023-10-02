@@ -5,3 +5,4 @@ Professor: Antônio Ricart
 Alunos:
 - ~~Antônio Ricart~~
 - ~~Carlos Lopes~~
+- Bianca 
