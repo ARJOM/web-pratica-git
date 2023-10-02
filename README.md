@@ -13,3 +13,4 @@ Alunos:
 - João Lucas Ferreira
 - Maria Eduarda Lopes Parnaiba
 - Veluma de Sousa Guedes
+- Lucas Mateus Macedo Amorim
