@@ -19,8 +19,10 @@ Alunos:
 - Maria Eduarda Lopes Parnaiba 
 - João Lucas Ferreira
 - Maria Eduarda Lopes Parnaiba
+- Ana Beatriz Fernandes Batista 
 - Veluma de Sousa Guedes
 - Lucas Mateus Macedo Amorim
 - Maria Clara Formiga Braga
 - Jayne Dias Figueiredo
 - Veluma de Sousa Guedes
+
