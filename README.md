@@ -29,3 +29,4 @@ Alunos:
 - Anna Clara Ferreira Lopes  
 - Sarah Dantas Alencar
 - Maria Kaislândia Vicente Bezerra
+- Washington Marques dos Santos
