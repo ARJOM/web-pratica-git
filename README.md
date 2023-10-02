@@ -13,5 +13,5 @@ Alunos:
 - Maria Clara Lourenço de Lira :)
 - João Lucas Ferreira
 - Maria Eduarda Lopes Parnaiba
+- Jayne Dias Figueiredo
 - Veluma de Sousa Guedes
-
