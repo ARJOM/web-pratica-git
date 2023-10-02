@@ -4,3 +4,4 @@ Professor: Antônio Ricart
 
 Alunos:
 - ~~Antônio Ricart~~
+- Isadora Pereira Maciel
