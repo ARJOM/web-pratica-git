@@ -10,3 +10,6 @@ Alunos:
 - Maria Clara Lourenço de Lira :)
 - João Lucas Ferreira
 - Velumna de Sousa Guedes
+- Velumna de Sousa Guedes
+- Maria Eduarda Lopes Parnaiba
+
