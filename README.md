@@ -25,4 +25,5 @@ Alunos:
 - Maria Clara Formiga Braga
 - Jayne Dias Figueiredo
 - Veluma de Sousa Guedes
+- João Vittor 
 
